@@ -1,10 +1,5 @@
 # 👾 UDAY SHARMA | DEVELOPER PROFILE
 
-```bash
-┌──(uday㉿github)-[~]
-└─$ whoami
-```
-
 <h1 align="center">⚡ UDAY SHARMA ⚡</h1>
 
 <h3 align="center">
@@ -12,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World;Breaking+Problems+into+Algorithms;Building+Projects+with+Code;C%2B%2B+%7C+DSA+%7C+Full+Stack;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World;Breaking+Problems+into+Algorithms;Building+Projects+with+Code;C%2B%2B+%7C+DSA+%7C+Full+Stack;Always+Learning.+Always+Building." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,20 +17,25 @@
 
 ---
 
+## 🖥️ SYSTEM INFORMATION
+
 ```yaml
-SYSTEM:
-  Name: Uday Sharma
-  Role: B.Tech Second Year Student
-  Identity: Aspiring Software Engineer
-  Primary_Language: C++
-  Focus:
-    - Data Structures & Algorithms
-    - Problem Solving
-    - Full Stack Development
-    - Real World Projects
-  Current_Mission: Build. Learn. Improve.
-  Status: Always Exploring
+Name: Uday Sharma
+Role: B.Tech Second Year Student
+Identity: Aspiring Software Engineer
+
+Primary Language: C++
+Main Focus:
+  - Data Structures & Algorithms
+  - Competitive Programming
+  - Full Stack Development
+  - Real World Projects
+
+Current Mission: Build. Learn. Improve.
+Status: Always Exploring
 ```
+
+---
 
 ## 🧑‍💻 ABOUT ME
 
@@ -54,16 +54,16 @@ Hey! I'm **Uday Sharma**, a second-year B.Tech student passionate about programm
 
 ## ⚔️ TECH ARSENAL
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
 </p>
 
-### Development Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
 </p>
 
 ---
@@ -72,6 +72,7 @@ Hey! I'm **Uday Sharma**, a second-year B.Tech student passionate about programm
 
 ```cpp
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
@@ -99,12 +100,12 @@ int main() {
 ## 📊 GITHUB COMMAND CENTER
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaysharma189&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysharma189&theme=chartreuse-dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaysharma189&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=udaysharma189&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharma189&layout=compact&theme=chartreuse-dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharma189&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%" alt="Top Languages" />
 </p>
 
 ---
@@ -129,11 +130,11 @@ int main() {
 
 I believe the best way to learn programming is by building things.
 
-Explore my repositories to see my coding journey, experiments, and development projects.
+Explore my repositories to discover my coding journey, experiments, and development projects.
 
 <p align="center">
   <a href="https://github.com/udaysharma189?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/EXPLORE-MY_PROJECTS-39FF14?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -170,7 +171,7 @@ Explore my repositories to see my coding journey, experiments, and development p
 <h3 align="center">⚡ THINK. CODE. DEBUG. REPEAT. ⚡</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
