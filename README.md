@@ -97,19 +97,6 @@ int main() {
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaysharma189&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=udaysharma189&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharma189&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%" alt="Top Languages" />
-</p>
-
----
-
 ## 🏆 CODING PROFILES
 
 <p align="center">
